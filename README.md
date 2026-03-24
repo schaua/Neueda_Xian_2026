@@ -1,2 +1,5 @@
 # Neueda_Xian_2026
-This is to demonstrate a remote repository, and I will delete it next month.
+
+## Java Course Hackathon
+
+[The Assignment](./assignment.md)
