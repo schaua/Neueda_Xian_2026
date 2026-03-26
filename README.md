@@ -2,4 +2,8 @@
 
 ## Java Course Hackathon
 
-[The Assignment](./assignment.md)
+[The Java Assignment](./assignment.md)
+
+## Spring Course Hackathon
+
+[The Spring Assignment](./spring-assignment.md)
