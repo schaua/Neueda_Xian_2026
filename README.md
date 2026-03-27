@@ -7,3 +7,7 @@
 ## Spring Course Hackathon
 
 [The Spring Assignment](./spring-assignment.md)
+
+## Final Project 
+
+[Xi'an Final Project](./final-project.md)
