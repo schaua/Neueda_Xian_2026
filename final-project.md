@@ -158,7 +158,7 @@ The screen below might give you some ideas about User Interfaces. You are DEFINI
 
 Just to repeat.... This is NOT what is expected, it is simply here to give ideas!! In the time available, it is understood that your UI will likely be much simpler.
 
-![Demonstration Portfolio UI](https://www.benivade.com/neueda-training/Tech2020/DemoPortfolioScreen.png)
+![Demonstration Portfolio UI](./FinalProjectPossibleUI.png)
 
 ## Appendix C: Useful links
 
